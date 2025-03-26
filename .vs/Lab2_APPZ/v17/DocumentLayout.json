@@ -1,29 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Denis\\source\\repos\\Lab2_APPZ\\",
+  "WorkspaceRootPath": "C:\\Users\\Denis\\Desktop\\Lab3_APPZ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9657846C-0780-4009-8608-FB5F7BE61022}|Lab2_APPZ\\Lab2_APPZ.csproj|c:\\users\\denis\\source\\repos\\lab2_appz\\lab2_appz\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9657846C-0780-4009-8608-FB5F7BE61022}|Lab2_APPZ\\Lab2_APPZ.csproj|solutionrelative:lab2_appz\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9657846C-0780-4009-8608-FB5F7BE61022}|Lab2_APPZ\\Lab2_APPZ.csproj|c:\\users\\denis\\source\\repos\\lab2_appz\\lab2_appz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9657846C-0780-4009-8608-FB5F7BE61022}|Lab2_APPZ\\Lab2_APPZ.csproj|c:\\users\\denis\\desktop\\lab3_appz\\lab2_appz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9657846C-0780-4009-8608-FB5F7BE61022}|Lab2_APPZ\\Lab2_APPZ.csproj|solutionrelative:lab2_appz\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9657846C-0780-4009-8608-FB5F7BE61022}|Lab2_APPZ\\Lab2_APPZ.csproj|c:\\users\\denis\\source\\repos\\lab2_appz\\lab2_appz\\universitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9657846C-0780-4009-8608-FB5F7BE61022}|Lab2_APPZ\\Lab2_APPZ.csproj|c:\\users\\denis\\desktop\\lab3_appz\\lab2_appz\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9657846C-0780-4009-8608-FB5F7BE61022}|Lab2_APPZ\\Lab2_APPZ.csproj|solutionrelative:lab2_appz\\discipline.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9657846C-0780-4009-8608-FB5F7BE61022}|Lab2_APPZ\\Lab2_APPZ.csproj|c:\\users\\denis\\desktop\\lab3_appz\\lab2_appz\\universitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9657846C-0780-4009-8608-FB5F7BE61022}|Lab2_APPZ\\Lab2_APPZ.csproj|solutionrelative:lab2_appz\\universitymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9657846C-0780-4009-8608-FB5F7BE61022}|Lab2_APPZ\\Lab2_APPZ.csproj|c:\\users\\denis\\source\\repos\\lab2_appz\\lab2_appz\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9657846C-0780-4009-8608-FB5F7BE61022}|Lab2_APPZ\\Lab2_APPZ.csproj|c:\\users\\denis\\desktop\\lab3_appz\\lab2_appz\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9657846C-0780-4009-8608-FB5F7BE61022}|Lab2_APPZ\\Lab2_APPZ.csproj|solutionrelative:lab2_appz\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9657846C-0780-4009-8608-FB5F7BE61022}|Lab2_APPZ\\Lab2_APPZ.csproj|c:\\users\\denis\\source\\repos\\lab2_appz\\lab2_appz\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9657846C-0780-4009-8608-FB5F7BE61022}|Lab2_APPZ\\Lab2_APPZ.csproj|c:\\users\\denis\\desktop\\lab3_appz\\lab2_appz\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9657846C-0780-4009-8608-FB5F7BE61022}|Lab2_APPZ\\Lab2_APPZ.csproj|solutionrelative:lab2_appz\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9657846C-0780-4009-8608-FB5F7BE61022}|Lab2_APPZ\\Lab2_APPZ.csproj|c:\\users\\denis\\source\\repos\\lab2_appz\\lab2_appz\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9657846C-0780-4009-8608-FB5F7BE61022}|Lab2_APPZ\\Lab2_APPZ.csproj|c:\\users\\denis\\desktop\\lab3_appz\\lab2_appz\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9657846C-0780-4009-8608-FB5F7BE61022}|Lab2_APPZ\\Lab2_APPZ.csproj|solutionrelative:lab2_appz\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -34,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 410,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,23 +42,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\source\\repos\\Lab2_APPZ\\Lab2_APPZ\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\Lab3_APPZ\\Lab2_APPZ\\Program.cs",
               "RelativeDocumentMoniker": "Lab2_APPZ\\Program.cs",
-              "ToolTip": "C:\\Users\\Denis\\source\\repos\\Lab2_APPZ\\Lab2_APPZ\\Program.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\Lab3_APPZ\\Lab2_APPZ\\Program.cs",
               "RelativeToolTip": "Lab2_APPZ\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T13:23:11.436Z"
+              "WhenOpened": "2025-03-04T13:23:11.436Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "UniversityManager.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\source\\repos\\Lab2_APPZ\\Lab2_APPZ\\UniversityManager.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\Lab3_APPZ\\Lab2_APPZ\\UniversityManager.cs",
               "RelativeDocumentMoniker": "Lab2_APPZ\\UniversityManager.cs",
-              "ToolTip": "C:\\Users\\Denis\\source\\repos\\Lab2_APPZ\\Lab2_APPZ\\UniversityManager.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\Lab3_APPZ\\Lab2_APPZ\\UniversityManager.cs",
               "RelativeToolTip": "Lab2_APPZ\\UniversityManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -66,13 +67,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Discipline.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\source\\repos\\Lab2_APPZ\\Lab2_APPZ\\Discipline.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\Lab3_APPZ\\Lab2_APPZ\\Discipline.cs",
               "RelativeDocumentMoniker": "Lab2_APPZ\\Discipline.cs",
-              "ToolTip": "C:\\Users\\Denis\\source\\repos\\Lab2_APPZ\\Lab2_APPZ\\Discipline.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\Lab3_APPZ\\Lab2_APPZ\\Discipline.cs",
               "RelativeToolTip": "Lab2_APPZ\\Discipline.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-04T13:35:10.497Z",
               "EditorCaption": ""
@@ -81,9 +82,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Activity.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\source\\repos\\Lab2_APPZ\\Lab2_APPZ\\Activity.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\Lab3_APPZ\\Lab2_APPZ\\Activity.cs",
               "RelativeDocumentMoniker": "Lab2_APPZ\\Activity.cs",
-              "ToolTip": "C:\\Users\\Denis\\source\\repos\\Lab2_APPZ\\Lab2_APPZ\\Activity.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\Lab3_APPZ\\Lab2_APPZ\\Activity.cs",
               "RelativeToolTip": "Lab2_APPZ\\Activity.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAAA0AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -93,9 +94,9 @@
               "$type": "Document",
               "DocumentIndex": 5,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\source\\repos\\Lab2_APPZ\\Lab2_APPZ\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\Lab3_APPZ\\Lab2_APPZ\\Student.cs",
               "RelativeDocumentMoniker": "Lab2_APPZ\\Student.cs",
-              "ToolTip": "C:\\Users\\Denis\\source\\repos\\Lab2_APPZ\\Lab2_APPZ\\Student.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\Lab3_APPZ\\Lab2_APPZ\\Student.cs",
               "RelativeToolTip": "Lab2_APPZ\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -105,9 +106,9 @@
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Teacher.cs",
-              "DocumentMoniker": "C:\\Users\\Denis\\source\\repos\\Lab2_APPZ\\Lab2_APPZ\\Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\Denis\\Desktop\\Lab3_APPZ\\Lab2_APPZ\\Teacher.cs",
               "RelativeDocumentMoniker": "Lab2_APPZ\\Teacher.cs",
-              "ToolTip": "C:\\Users\\Denis\\source\\repos\\Lab2_APPZ\\Lab2_APPZ\\Teacher.cs",
+              "ToolTip": "C:\\Users\\Denis\\Desktop\\Lab3_APPZ\\Lab2_APPZ\\Teacher.cs",
               "RelativeToolTip": "Lab2_APPZ\\Teacher.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",

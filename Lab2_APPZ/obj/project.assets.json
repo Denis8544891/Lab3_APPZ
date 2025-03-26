@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Denis\\source\\repos\\Lab3_APPZ\\Lab3_APPZ\\Lab3_APPZ.csproj",
-      "projectName": "Lab3_APPZ",
-      "projectPath": "C:\\Users\\Denis\\source\\repos\\Lab3_APPZ\\Lab3_APPZ\\Lab3_APPZ.csproj",
+      "projectUniqueName": "C:\\Users\\Denis\\Desktop\\Lab3_APPZ\\Lab2_APPZ\\Lab2_APPZ.csproj",
+      "projectName": "Lab2_APPZ",
+      "projectPath": "C:\\Users\\Denis\\Desktop\\Lab3_APPZ\\Lab2_APPZ\\Lab2_APPZ.csproj",
       "packagesPath": "C:\\Users\\Denis\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Denis\\source\\repos\\Lab3_APPZ\\Lab3_APPZ\\obj\\",
+      "outputPath": "C:\\Users\\Denis\\Desktop\\Lab3_APPZ\\Lab2_APPZ\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
