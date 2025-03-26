@@ -11,7 +11,7 @@ namespace UniversityDisciplinesManager.Models
 
     public class Lecture : Activity
     {
-        public Lecture() { Type = "Лекція"; }
+        public Lecture() { Type = "Лекцiя"; }
         public int Duration { get; set; }
     }
 
@@ -47,7 +47,7 @@ namespace UniversityDisciplinesManager.Models
 
     public class Credit : Activity
     {
-        public Credit() { Type = "Залік"; }
+        public Credit() { Type = "Залiк"; }
         public bool IsAutomaticallyAssigned { get; set; }
     }
 }

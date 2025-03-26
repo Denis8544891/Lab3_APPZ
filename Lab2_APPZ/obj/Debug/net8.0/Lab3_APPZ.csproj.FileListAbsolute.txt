@@ -1,0 +1,14 @@
+C:\Users\Denis\source\repos\Lab3_APPZ\Lab3_APPZ\bin\Debug\net8.0\Lab3_APPZ.exe
+C:\Users\Denis\source\repos\Lab3_APPZ\Lab3_APPZ\bin\Debug\net8.0\Lab3_APPZ.deps.json
+C:\Users\Denis\source\repos\Lab3_APPZ\Lab3_APPZ\bin\Debug\net8.0\Lab3_APPZ.runtimeconfig.json
+C:\Users\Denis\source\repos\Lab3_APPZ\Lab3_APPZ\bin\Debug\net8.0\Lab3_APPZ.dll
+C:\Users\Denis\source\repos\Lab3_APPZ\Lab3_APPZ\bin\Debug\net8.0\Lab3_APPZ.pdb
+C:\Users\Denis\source\repos\Lab3_APPZ\Lab3_APPZ\obj\Debug\net8.0\Lab3_APPZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\source\repos\Lab3_APPZ\Lab3_APPZ\obj\Debug\net8.0\Lab3_APPZ.AssemblyInfoInputs.cache
+C:\Users\Denis\source\repos\Lab3_APPZ\Lab3_APPZ\obj\Debug\net8.0\Lab3_APPZ.AssemblyInfo.cs
+C:\Users\Denis\source\repos\Lab3_APPZ\Lab3_APPZ\obj\Debug\net8.0\Lab3_APPZ.csproj.CoreCompileInputs.cache
+C:\Users\Denis\source\repos\Lab3_APPZ\Lab3_APPZ\obj\Debug\net8.0\Lab3_APPZ.dll
+C:\Users\Denis\source\repos\Lab3_APPZ\Lab3_APPZ\obj\Debug\net8.0\refint\Lab3_APPZ.dll
+C:\Users\Denis\source\repos\Lab3_APPZ\Lab3_APPZ\obj\Debug\net8.0\Lab3_APPZ.pdb
+C:\Users\Denis\source\repos\Lab3_APPZ\Lab3_APPZ\obj\Debug\net8.0\Lab3_APPZ.genruntimeconfig.cache
+C:\Users\Denis\source\repos\Lab3_APPZ\Lab3_APPZ\obj\Debug\net8.0\ref\Lab3_APPZ.dll
